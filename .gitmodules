@@ -1,0 +1,36 @@
+[submodule "engr-65"]
+	path = engr-65
+	url = https://github.com/adriandarian/engr-65.git
+[submodule "math-32"]
+	path = math-32
+	url = https://github.com/adriandarian/math-32.git
+[submodule "cse-21"]
+	path = cse-21
+	url = https://github.com/adriandarian/CSE21.git
+[submodule "cse-15"]
+	path = cse-15
+	url = https://github.com/adriandarian/CSE15.git
+[submodule "cse-100"]
+	path = cse-100
+	url = https://github.com/adriandarian/CSE100.git
+[submodule "cse-170-project"]
+	path = cse-170-project
+	url = https://github.com/adriandarian/CSE170-project.git
+[submodule "cse-170"]
+	path = cse-170
+	url = https://github.com/adriandarian/CSE170.git
+[submodule "cse-177"]
+	path = cse-177
+	url = https://github.com/adriandarian/CSE177.git
+[submodule "cse-165"]
+	path = cse-165
+	url = https://github.com/adriandarian/CSE165.git
+[submodule "cse-150"]
+	path = cse-150
+	url = https://github.com/adriandarian/CSE150.git
+[submodule "cse-31-project-1"]
+	path = cse-31-project-1
+	url = https://github.com/adriandarian/cse31_project1.git
+[submodule "cse-31-project-2"]
+	path = cse-31-project-2
+	url = https://github.com/adriandarian/rgrep.git
