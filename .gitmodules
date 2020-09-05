@@ -34,3 +34,6 @@
 [submodule "cse-31-project-2"]
 	path = cse-31-project-2
 	url = https://github.com/adriandarian/rgrep.git
+[submodule "cse-160"]
+	path = cse-160
+	url = https://github.com/adriandarian/cse-160.git
