@@ -40,3 +40,12 @@
 [submodule "cse-155"]
 	path = cse-155
 	url = https://github.com/adriandarian/cse-155.git
+[submodule "cse-162"]
+	path = cse-162
+	url = https://github.com/adriandarian/cse-162.git
+[submodule "cse-185"]
+	path = cse-185
+	url = https://github.com/adriandarian/cse-185.git
+[submodule "cse-120"]
+	path = cse-120
+	url = https://github.com/adriandarian/cse-120.git
